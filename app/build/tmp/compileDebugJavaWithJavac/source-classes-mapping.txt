@@ -1,0 +1,10 @@
+com/example/gmail/BuildConfig.java
+ com.example.gmail.BuildConfig
+com/example/gmail/MainActivity.java
+ com.example.gmail.MainActivity
+com/example/gmail/adapters/EmailLayoutAdapter.java
+ com.example.gmail.adapters.EmailLayoutAdapter
+ com.example.gmail.adapters.EmailLayoutAdapter$1
+ com.example.gmail.adapters.EmailLayoutAdapter$ViewHolder
+com/example/gmail/adapters/Email.java
+ com.example.gmail.adapters.Email
